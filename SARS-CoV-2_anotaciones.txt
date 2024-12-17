@@ -1,0 +1,14 @@
+=== Anotaciones globales del genoma ===
+
+molecule_type: RNA
+topology: linear
+data_file_division: VRL
+date: 13-DEC-2024
+accessions: ['PQ763671']
+sequence_version: 1
+keywords: ['']
+source: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+organism: Severe acute respiratory syndrome coronavirus 2
+taxonomy: ['Viruses', 'Riboviria', 'Orthornavirae', 'Pisuviricota', 'Pisoniviricetes', 'Nidovirales', 'Cornidovirineae', 'Coronaviridae', 'Orthocoronavirinae', 'Betacoronavirus', 'Sarbecovirus', 'Severe acute respiratory syndrome-related coronavirus']
+references: [Reference(title='Direct Submission', ...)]
+structured_comment: defaultdict(<class 'dict'>, {'Assembly-Data': {'Assembly Method': 'Medaka via Arctic 1.2.1 v. Arctic 1.2.1', 'Sequencing Technology': 'Oxford Nanopore Technologies'}})
